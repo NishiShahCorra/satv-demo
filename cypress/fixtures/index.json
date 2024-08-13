@@ -1,0 +1,70 @@
+{
+    "auth": {
+        "username": "pwaprodfrontend",
+        "password": "ajsdak3*FhIop!"
+    },
+    "registration": {
+        "firstname": "Nishi",
+        "lastname": "Shah",
+        "email": "shiteshbha+129112@yopmail.com",
+        "password": "Test@123"
+    },
+    "plp": {
+        "categoryUrl": "category/flower",
+        "plpUrl": "shop/polaris/ranger-full-size/ranger-xp-1000",
+        "categoryName": "Ranger XP 1000",
+        "plpCategoryApiInput": "Shop Make>Polaris>Ranger Full-Size>Ranger XP 1000"
+    },
+
+    "srp": {
+        "srpUrl": "search?q=jumper",
+        "categoryName": "jumper"
+    },
+    "search": {
+        "keyword": "jumper",
+        "searchResultHeader": "Search results for: "
+    },
+    "pdp": {
+        "productUrl": "product/modern-flower-iron-lion-whole-flower-60425"
+    },
+    "login": {
+        "username": "shiteshbha+1234@yopmail.com",
+        "password": "Test@123"
+    },
+    "checkout": {
+        "streetAddress": "Test Street Address",
+        "city": "Test City",
+        "phoneNumber": "1234567890",
+        "state": "18"
+    },
+    "cartData": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "street1": "321 E Orangewood Ave Apt A09",
+        "street2": "Anaheim",
+        "postcode": "92802-4317",
+        "region": "Alabama",
+        "telephone": "9090909999",
+        "country": "United States",
+        "shippingAddressType": "residential"
+    },
+    "dataCy": {
+        "registration": {
+            "firstName": "registration-first-name",
+            "lastName": "registration-last-name",
+            "email": "registration-email",
+            "password": "registration-password",
+            "signupBtn": "registration-btn",
+            "closeBtn": "registration-close-btn",
+            "loginLink": "registration-login-link"
+        },
+        "login": {
+            "email": "login-email",
+            "password": "login-password",
+            "loginBtn": "login-btn",
+            "closeBtn": "login-close-btn",
+            "signupLink": "login-signup-link"
+        },
+        "menuItems": "menu-items"
+    }
+}
